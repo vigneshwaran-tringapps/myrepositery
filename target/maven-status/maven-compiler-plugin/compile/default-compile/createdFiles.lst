@@ -1,0 +1,10 @@
+com/designpattern/behavioral/strategy/Duck.class
+com/designpattern/behavioral/strategy/MuteQuack.class
+com/designpattern/behavioral/strategy/FlyWithWings.class
+com/designpattern/behavioral/strategy/FlyBehavior.class
+com/designpattern/behavioral/strategy/Quack.class
+com/designpattern/behavioral/strategy/MallardDuck.class
+com/designpattern/behavioral/strategy/FlyNoWay.class
+com/designpattern/behavioral/strategy/DuckSimulator.class
+com/designpattern/behavioral/strategy/Squeak.class
+com/designpattern/behavioral/strategy/QuackBehaviour.class

@@ -1,0 +1,10 @@
+/home/vignesh/datastructures/DesignPatterns/src/main/java/com/designpattern/behavioral/strategy/Duck.java
+/home/vignesh/datastructures/DesignPatterns/src/main/java/com/designpattern/behavioral/strategy/MallardDuck.java
+/home/vignesh/datastructures/DesignPatterns/src/main/java/com/designpattern/behavioral/strategy/Squeak.java
+/home/vignesh/datastructures/DesignPatterns/src/main/java/com/designpattern/behavioral/strategy/QuackBehaviour.java
+/home/vignesh/datastructures/DesignPatterns/src/main/java/com/designpattern/behavioral/strategy/FlyNoWay.java
+/home/vignesh/datastructures/DesignPatterns/src/main/java/com/designpattern/behavioral/strategy/DuckSimulator.java
+/home/vignesh/datastructures/DesignPatterns/src/main/java/com/designpattern/behavioral/strategy/Quack.java
+/home/vignesh/datastructures/DesignPatterns/src/main/java/com/designpattern/behavioral/strategy/MuteQuack.java
+/home/vignesh/datastructures/DesignPatterns/src/main/java/com/designpattern/behavioral/strategy/FlyBehavior.java
+/home/vignesh/datastructures/DesignPatterns/src/main/java/com/designpattern/behavioral/strategy/FlyWithWings.java
