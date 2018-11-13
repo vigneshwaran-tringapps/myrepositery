@@ -12,6 +12,7 @@ public class FactoryTest {
 	@Test
 	public void test() {
 		
+		
 
 		SimplePizzaFactory factory = new SimplePizzaFactory();
 		PizzaStore store = new PizzaStore(factory);

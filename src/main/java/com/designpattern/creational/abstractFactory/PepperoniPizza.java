@@ -1,6 +1,7 @@
 package com.designpattern.creational.abstractFactory;
 
 public class PepperoniPizza extends Pizza {
+	
 PizzaIngredientFactory ingredientFactory;
 	
 	public PepperoniPizza(	PizzaIngredientFactory ingredientFactory) {

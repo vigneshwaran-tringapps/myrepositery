@@ -3,7 +3,7 @@ package com.designpattern.behavioral.strategy;
 public abstract class Duck {
 
 	FlyBehavior flyBehavior;
-	QuackBehaviour quackBehaviour;
+	QuackBehavior quackBehaviour;
 
 	public void swim() {
 		System.out.println("all ducks swims");
@@ -13,7 +13,7 @@ public abstract class Duck {
 		this.flyBehavior = flyBehavior;
 	}
 
-	public void setQuackBehaviour(QuackBehaviour quackBehaviour) {
+	public void setQuackBehavior(QuackBehavior quackBehaviour) {
 		this.quackBehaviour = quackBehaviour;
 	}
 
